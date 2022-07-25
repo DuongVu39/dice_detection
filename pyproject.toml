@@ -7,6 +7,10 @@ authors = ["duong <duong@urbanlogiq.com>"]
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
 kedro = "^0.18.2"
+jupyterlab = "^3.4.4"
+opencv-python = "^4.6.0"
+numpy = "^1.23.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 
